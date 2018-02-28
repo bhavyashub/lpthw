@@ -1,0 +1,2 @@
+Hello WORLD!!
+ This program reads a new text file and print the content of the text file.
